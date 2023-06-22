@@ -4,4 +4,10 @@ What factors influences the violations across various states in the USA? The pro
 
 
 ## Dataset
-The violations.csv represents dataset on road traffic violations in the states of the US. 
+The violations.csv represents dataset on road traffic violations in the states of the US.
+
+## next 
+The next text file represents a file I used to organize my thoughts, info from research and what next to do at every step of the analysis. 
+
+# references
+Keeps track of consulted sources during analysis. 
